@@ -366,9 +366,9 @@ main #sec5 .footer .footer-bottom .bottom-end ul li {
   }
   main #sec4 {
     padding: 4rem 10rem;
-    background: linear-gradient(#fcfce4, #f5fbfe);
   }
   main #sec4 .text {
+    background-color: #08125d;
     padding: 4rem 2rem;
   }
   main #sec4 .text h3 {
